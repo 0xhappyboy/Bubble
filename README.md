@@ -1,2 +1,2 @@
-# bubble
+# Bubble
 Lightweight web framework
