@@ -1,2 +1,2 @@
 [workspace]
-members = ["bubble", "test", "example"]
+members = ["bubble-controller", "bubble-test", "bubble-examples", "bubble-config"]

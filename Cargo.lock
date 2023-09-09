@@ -3,13 +3,17 @@
 version = 3
 
 [[package]]
-name = "bubble"
+name = "bubble-config"
+version = "0.1.0"
+
+[[package]]
+name = "bubble-controller"
+version = "0.1.0"
+
+[[package]]
+name = "bubble-examples"
 version = "0.1.0"
 
 [[package]]
 name = "bubble-test"
-version = "0.1.0"
-
-[[package]]
-name = "example"
 version = "0.1.0"
