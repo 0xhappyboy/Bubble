@@ -3,11 +3,23 @@
 version = 3
 
 [[package]]
+name = "bubble"
+version = "0.1.0"
+dependencies = [
+ "bubble-config",
+ "bubble-controller",
+]
+
+[[package]]
 name = "bubble-config"
 version = "0.1.0"
 
 [[package]]
 name = "bubble-controller"
+version = "0.1.0"
+
+[[package]]
+name = "bubble-db"
 version = "0.1.0"
 
 [[package]]

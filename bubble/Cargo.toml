@@ -1,8 +1,9 @@
 [package]
+authors = ["happyboy"]
+description = "lightweight web framework"
+edition = "2021"
 name = "bubble"
 version = "0.1.0"
-edition = "2021"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
-
 [dependencies]
+bubble-config = {version = "0.1.0", path = "../bubble-config"}
+bubble-controller = {version = "0.1.0", path = "../bubble-controller"}
